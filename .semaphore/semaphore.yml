@@ -9,6 +9,9 @@ agent:
 blocks:
   - name: Install Dependencies
     task:
+      prologue:
+        commands:
+          - sem-version node 14.18.1
       jobs:
         - name: npm install
           commands:
