@@ -4,6 +4,7 @@ navtitle: 🎅 Seminar
 theme: maroon
 permalink: /:year/seminare/weihnachten/
 date: 2021-12-27
+featured: true
 
 excerpt: "Aufblühen wie in den 20er Jahren"
 
