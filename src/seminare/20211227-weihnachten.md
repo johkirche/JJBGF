@@ -3,8 +3,11 @@ title: Weihnachtsseminar
 navtitle: 🎅 Seminar
 theme: maroon
 permalink: /2021/seminare/weihnachten/
-date: 2021-12-27
 featured: true
+
+date:
+  start: 2021-12-27
+  end: 2021-12-30
 
 excerpt: "Aufblühen wie in den 20er Jahren"
 
