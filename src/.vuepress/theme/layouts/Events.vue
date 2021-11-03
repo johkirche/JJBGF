@@ -3,7 +3,7 @@
     <page-header />
     <article class="text padding">
       <Content class="text" />
-      <section v-for="year in eventYears">
+      <section v-for="(year, index) in eventYears" :key="index">
         <header>
           <h2>{{year}}</h2>
         </header>
