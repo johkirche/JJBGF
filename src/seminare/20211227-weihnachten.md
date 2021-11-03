@@ -2,7 +2,7 @@
 title: Weihnachtsseminar
 navtitle: 🎅 Seminar
 theme: maroon
-permalink: /:year/seminare/weihnachten/
+permalink: /2021/seminare/weihnachten/
 date: 2021-12-27
 featured: true
 
