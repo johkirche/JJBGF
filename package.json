@@ -44,7 +44,7 @@
     "markdown-it-for-inline": "^0.1.1",
     "markdown-it-front-matter": "^0.1.2",
     "markdown-it-mark": "^2.0.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.0.1",
     "vue-template-compiler": "^2.5.17"
   },
