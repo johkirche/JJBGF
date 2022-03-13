@@ -27,7 +27,8 @@ export default {
       const uniqueYears = EventPages(this.$site)
         .sort(ByDate("DESC"))
         .reduce((acc, page) => {
-          const year = moment(page.frontmatter.date).format("YYYY");
+          console.log(page.frontmatter.date)
+          const year = moment(page.frontmatter.date.start).format("YYYY");
           if (acc.indexOf(year) < 0) acc.push(year);
           return acc;
         }, []);

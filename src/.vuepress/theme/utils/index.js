@@ -41,7 +41,7 @@ export const ByPriority = (order = "DESC") => {
 
 export const OnlyYear = (year) => {
   return (page) => {
-    const pageYear = moment(page.frontmatter.date).format("YYYY");
+    const pageYear = moment(page.frontmatter.date.start).format("YYYY");
     return pageYear == year;
   };
 };
