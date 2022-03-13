@@ -15,29 +15,38 @@
         Kanal auf Telegram bleibst Du auf dem Laufenden.
       </div>
 
-      <!-- <div
+      <div
         class="info clickable text"
         style="background-image: radial-gradient(circle at 100%, #ffdd9c, #d6ffd0)"
       >
-        <p><strong>Umfrage zur Kommunikation</strong></p>
+        <p><strong>Themenwunsch Umfrage</strong></p>
         <p>
-          Besonders jetzt ist es wichtig, miteinander in Kontakt zu bleiben.
-          Aber wir sind uns bewusst, dass es noch Defizite in der Kommunikation
-          gibt.
-          <span style="font-weight: 500">
-            Also wollen wir daran arbeiten und die Kommunikation verbessern.
-          </span>
-          Deshalb wäre es Klasse, wenn Du etwas Zeit für eine kurze
+          Es gibt ein Thema über welches Du dich mit anderen 
+          austauschen möchtest, das dich bewegt oder eine 
+          Frage, die Du schon immer stellen wolltest? 
+          Dann notiere deinen
           <a
             style="background-color: #b1d2a9; font-weight: bold; white-space: nowrap;"
-            href="https://forms.gle/BRfRSsSVx3WXCZzw5"
+            href="https://docs.google.com/forms/d/e/1FAIpQLScycQh8Asn9wqHOmxSg2KG7Z6RjZidZqTq_fHkczVToxwO0FA/viewform"
+            target="_blank"
+          >
+           Themenwunsch hier
+          </a>
+
+          <!-- <span style="font-weight: 500">
+            Also wollen wir daran arbeiten und die Kommunikation verbessern.
+          </span>
+          Deshalb wäre es Klasse, wenn Du etwas Zeit für eine kurze -->
+          <!-- <a
+            style="background-color: #b1d2a9; font-weight: bold; white-space: nowrap;"
+            href="https://docs.google.com/forms/d/e/1FAIpQLScycQh8Asn9wqHOmxSg2KG7Z6RjZidZqTq_fHkczVToxwO0FA/viewform"
             target="_blank"
           >
             Umfrage
-          </a>
-          hast. Danke ☺️
+          </a> -->
+          <!-- hast. Danke ☺️ -->
         </p>
-      </div> -->
+      </div>
     </div>
 
     <section class="container text foo">
