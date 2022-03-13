@@ -4,7 +4,7 @@ navtitle: 🎅 Seminar
 theme: maroon
 layout: EventPage
 permalink: /2021/seminare/weihnachten/
-featured: true
+featured: false
 
 date:
   start: 2021-12-27
